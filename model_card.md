@@ -10,15 +10,13 @@ Demographic data with the following features: 'country', 'year', 'uniqueid', 'ba
        'gender_of_respondent', 'relationship_with_head', 'marital_status',
        'education_level', 'job_type' 
 
-**Output:** Describe the output(s) of your model
+**Output:** 
 Prediction if person has bank account
 
-**Model Architecture:** Describe the model architecture you’ve used
+**Model Architecture:** 
 XGBClassifier aith the following hyperparameters: min_child_weight=1, gamma=0.5, subsample=1.0, max_depth=3
 
 ## Performance
-
-Give a summary graph or metrics of how the model performs. Remember to include how you are measuring the performance and what data you analysed it on. 
 
 The main performance metric is accuracy.
 The model was train on 80% of data and tested on remainingf 20%.
