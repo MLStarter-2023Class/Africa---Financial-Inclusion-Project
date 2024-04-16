@@ -19,7 +19,7 @@ XGBClassifier with the following hyperparameters: min_child_weight=1, gamma=0.5,
 ## Performance
 
 The main performance metric is accuracy.
-The model was train on 80% of data and tested on remainingf 20%.
+The model was train on 80% of data and tested on remaining 20%.
 
 Accuracy of the XGBoost model is 0.8895.
 
