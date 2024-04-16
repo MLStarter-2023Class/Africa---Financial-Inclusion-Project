@@ -6,10 +6,10 @@ Financial inclusion remains one of the main obstacles to economic and human deve
 
 The objective of this project is to create a machine learning model to predict which individuals are most likely to have a bank account. The model and solution could provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania and Uganda, while providing insights into some of the key factors driving individuals’ financial security.
 
-The developed model should predict the likelihood of the person having a bank account or not (Yes = 1, No = 0), for each unique id in the test dataset.
  
 ## DATA
 The dataset contains demographic and financial services information of approximately 33,600 individuals from four African countries - Kenya, Rwanda, Tanzania, and Uganda.
+This data was extracted from various Finscope surveys ranging from 2016 to 2018.
 
 ## MODEL 
 The final model I decid eto use is XGBoost model. The model has highest accuracy of all experimented models (0.8895)
