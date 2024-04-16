@@ -4,22 +4,17 @@ As far as you can, complete the model datasheet. If you have got the data from t
 
 ## Motivation
 
-- For what purpose was the dataset created? 
 The main dataset was created to predict is person has bank account.
 
-- Who created the dataset (e.g., which team, research group) and on behalf of which entity (e.g., company, institution, organization)? Who funded the creation of the dataset?
 The source data was gathered by Finscope surveys ranging from 2016 to 2018 in four African countries - Kenya, Rwanda, Tanzania, and Uganda.
  
 ## Composition
 
-- What do the instances that comprise the dataset represent (e.g., documents, photos, people, countries)? 
 Data represents demographic information of 33,600 people from the four African countries.
-- How many instances of each type are there? 
-33,600
-- Is there any missing data?
-no missing data
-- Does the dataset contain data that might be considered confidential (e.g., data that is protected by legal privilege or by    doctor–patient confidentiality, data that includes the content of individuals’ non-public communications)?
-No, data doesn't contain PII information.
+
+There is no misisng data.
+
+Data doesn't contain PII information.
 
 ## Collection process
 
