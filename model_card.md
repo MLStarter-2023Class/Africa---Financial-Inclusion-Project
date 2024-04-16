@@ -19,13 +19,13 @@ XGBClassifier with the following hyperparameters: min_child_weight=1, gamma=0.5,
 ## Performance
 
 The main performance metric is accuracy.
-The model was train on 80% of data and tested on remaining 20%.
+The model was train on 80% of data and tested on the remaining 20%.
 
 Accuracy of the XGBoost model is 0.8895.
 
 ## Limitations
 
-The model struggles with positive cases, as indicated by the relatively low True Positive rate (0.36) and high False Negative rate (0.64
+The model struggles with positive cases, as indicated by the relatively low True Positive rate (0.36) and high False Negative rate (0.64).
 
 ## Trade-offs
 
