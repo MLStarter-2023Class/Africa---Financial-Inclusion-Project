@@ -12,7 +12,7 @@ The dataset contains demographic and financial services information of approxima
 This data was extracted from various Finscope surveys ranging from 2016 to 2018.
 
 ## MODEL 
-The final model I decid eto use is XGBoost model. The model has highest accuracy of all experimented models (0.8895)
+The final model I decided to use is XGBoost model. The model has highest accuracy of all experimented models (0.8895)
 
 ## HYPERPARAMETER OPTIMSATION
 I chose to use Grid Search to optimise XGBoost parameters.
