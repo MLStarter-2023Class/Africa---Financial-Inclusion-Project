@@ -5,7 +5,7 @@ The data is from the internet and not all the information is available.
 
 ## Motivation
 
-The main dataset was created to predict is person has bank account.
+The main dataset was created to predict if person has bank account.
 
 The source data was gathered by Finscope surveys ranging from 2016 to 2018 in four African countries - Kenya, Rwanda, Tanzania, and Uganda.
  
